@@ -1,5 +1,3 @@
-# WarzoneX External ESP 🎮 C++ Anti-Cheat Bypass  
-
 ## 🎮 Game-Changing Features for Call of Duty Warzone  
 WarzoneX External ESP combines elite performance with stealth technology. Built in **C++**, it delivers:  
 
